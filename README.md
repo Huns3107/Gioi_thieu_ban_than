@@ -1,5 +1,5 @@
 # Lê Khánh Linh
-![Ảnh đại diện](https://drive.google.com/file/d/18pH6TphtTf9LLHFH3tZ0o8FHC5070j3D/view?usp=sharing)
+![Ảnh đại diện](./anh_dai_dien.jfif)
 ## Sinh viên năm 2 khoa Sư phạm Tin học Trường Đại học Sư phạm, Đại học Huế. Quê ở Kon Tum, hiện đang là tỉnh Quảng Ngãi. 
 ## Sở thích cá nhân
 * Nghe nhạc
